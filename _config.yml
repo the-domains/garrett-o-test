@@ -1,0 +1,14 @@
+layout_spectrum: 0.7526586807798594
+typography_spectrum: 0.46020523156039417
+color:
+  brandStrength: 0.704633763525635
+  lightness: 0.4317299642134458
+  saturation: 0.04990503075532615
+  rhythmicContrast: 0.747988278279081
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+name: 'Garrett O [test]'
